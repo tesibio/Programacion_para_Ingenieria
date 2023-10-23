@@ -1,0 +1,6 @@
+Pelicula 1
+	*Personajes:Peter Parker (tobeyGod)
+	*Amigos:Harry Osborn
+	*Crush:Mary Jane
+	*Enemigos:Duende Verde
+	*Trama principal:El papá de Harry pierde su empresa y se vuelve el duende verde
