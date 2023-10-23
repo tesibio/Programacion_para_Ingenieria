@@ -1,6 +1,6 @@
 ![Fecha de actualizacion](https://img.shields.io/badge/22_oct_23:-V_0.1.1-orange)
-![GitHub license](https://img.shields.io/github/license/tesibio/curso-IA-aplicado-con-MATLAB.svg)
-![GitHub latest commit](https://badgen.net/github/last-commit/tesibio/curso-IA-aplicado-con-MATLAB)
+![GitHub license](https://img.shields.io/github/license/tesibio/Programacion_para_Ingenieria.svg)
+![GitHub latest commit](https://badgen.net/github/last-commit/tesibio/Programacion_para_Ingenieria)
 
 # Curso de programación para Ingeniería 2023
 ![Markdown badge](https://img.shields.io/badge/markdown-3670A0.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -16,6 +16,7 @@ En este curso aprenderas las bases de manejo del lenguaje de programación de MA
 - [Enlace a la Práctica 1](practica_1/).- En esta práctica aprenderas los principales tipos de datos que son utilizados por MATLAB, así como su sintaxis de declaración dentro del lenguaje de programación `*.m`
 - [Enlace a la Práctica 2](practica_2/).- En esta práctica aprenderas el significado de los contenedores de datos dentro del entorno de programación de MATLAB 
 - [Enlace a la Práctica 3](practica_3/).- En esta práctica aprenderas a declarar funciones de programación y aprenderas la sintaxis de uso de los principales ciclos de programación
+- [Enlace a la Práctica 4](practica_4/).- En esta práctica aprenderas a utilizar algunas gráficas para mostrar datos en pantalla
 - 
 - Práctica para mover, copiar y generar archivos mediante el uso de MATLAB
 - [Enlace a Practica 2](practica_2/).- Práctica para realizar un análisis exploratorio de bases de datos usando MATLAB como IDE
