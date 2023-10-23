@@ -14,3 +14,7 @@ En este curso aprenderas las bases de manejo del lenguaje de programación de MA
 <p align = "center">
     <strong> **Manejo básico de la plataforma** </strong><br>
 </p>
+
+TODO
+Me falta agregar los archivos 4, 5 y 6 a la rama de python
+Me falta modificar el enlace de archivo en la practica 5 de MATLAB
